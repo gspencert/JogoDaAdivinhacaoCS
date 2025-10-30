@@ -1,0 +1,28 @@
+# Compilação
+bin/
+obj/
+out/
+*.exe
+*.dll
+*.pdb
+
+# VS Code configs
+.vscode/
+*.code-workspace
+
+# Logs e temporários
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Dependências e pacotes locais
+packages/
+*.nupkg
+*.snupkg
+
+# Arquivos de usuário / ambiente
+*.user
+*.suo
+*.userpr*
